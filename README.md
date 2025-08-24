@@ -52,7 +52,7 @@ Multi-CSV Integration: Player performance, team mappings, and match data
 
 Sample Output:
 Player: Cole Palmer
-Games Played: 1 | Games Started: 0
+Games Played: 38 | Games Started: 37
 Goals: 15 | Assists: 10
 --------------------------------------------------
 
