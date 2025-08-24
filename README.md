@@ -77,6 +77,3 @@ This platform serves as the technical foundation for data-driven services within
 Contact
 Developer: Ugo Okoli
 LinkedIn: [https://www.linkedin.com/in/ugo-okoli-a3b41780/]
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
